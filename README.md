@@ -1,4 +1,4 @@
-# Model za generisanje teksat na osnovu zadate teme ili upita
+# Model za generisanje teksta na osnovu zadate teme ili upita
 ## Uvod
 Jedan od najmoćnijih alata za generisnje teksta je GPT-2 model (Generative Pre-trained Transformer 2). GPT-2 je jezički model baziran na transformer arhitekturi, koji je razvio OpenAI. To je napredni model vještačke inteligencije obučen na ogromnom skupu tekstualnih podataka. GPT-2 je sposoban da generiše kvalitetan tekst na osnovu zadatog ulaza, bilo da su to rečenice, teksta ili pitanja. 
 
